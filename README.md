@@ -1,8 +1,25 @@
-# React + Vite
+# Customer Support Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+A customer support chatbot built to handle common user inquiries with a strong focus on **software quality and test automation**.  
+This project demonstrates **QA best practices**, including manual testing, UI automation, and API validation.
 
-Currently, two official plugins are available:
+## Tech Stack
+- JavaScript, React, Node.js
+- Playwright (UI Automation)
+- Postman (API Testing)
+- Git & GitHub
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Testing Focus
+- Manual test case design and validation
+- Automated UI tests using Playwright
+- Regression and negative scenario testing
+- API testing with Postman
+
+## Demo
+https://oumeradem.github.io/customer-support-chatbot/
+
+## Author
+**Oumer** – Software Quality Assurance Engineer  
+ISTQB CTFL | CompTIA A+
+
